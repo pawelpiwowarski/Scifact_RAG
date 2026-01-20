@@ -1,0 +1,9 @@
+Retrieval Evaluation (LLM generated test set) With Reranker
+
+
+Mean Reciprocal Rank (MRR)
+0.8480
+Normalized DCG (nDCG)
+0.8323
+Keyword Coverage
+89.3%

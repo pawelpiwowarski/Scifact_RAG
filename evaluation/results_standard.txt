@@ -1,0 +1,46 @@
+SciFact Canonical Retrieval Evaluation
+
+Overall MRR
+0.6106
+Overall nDCG
+0.6744
+MRR@1
+0.5033
+nDCG@1
+0.5033
+MRR@5
+0.5997
+nDCG@5
+0.6293
+MRR@10
+0.6047
+nDCG@10
+0.6451
+MRR@20
+0.6089
+nDCG@20
+0.6599
+MRR@50
+0.6106
+nDCG@50
+0.6711
+
+Retrieval Evaluation (LLM generated test set)
+
+
+Mean Reciprocal Rank (MRR)
+0.8193
+Normalized DCG (nDCG)
+0.8079
+Keyword Coverage
+89.3%
+
+
+Answer Evaluation (LLM as a Judge)
+Run Evaluation
+Accuracy
+4.39/5
+Completeness
+4.35/5
+Relevance
+4.50/5
